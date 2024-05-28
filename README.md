@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who thrives on coding, learning new technologies, and contributing to open-source projects. Let's build something amazing together!
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ## 🔧 Technologies & Tools
 
